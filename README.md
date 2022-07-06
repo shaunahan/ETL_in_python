@@ -1,2 +1,2 @@
-# SQL_exercise
+# SQL_ETL
 Building ETL piplines 
