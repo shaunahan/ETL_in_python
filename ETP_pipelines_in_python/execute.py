@@ -4,11 +4,11 @@
 @author: shaunahan
 """
 
-# Import the transform script
 import extract
-import ____
+import transform
+import load
 
-# Call its main function
 if __name__ == "__main__":
     extract.main()
-    transform.____()  
+    transform.main()
+    load.main()
