@@ -10,4 +10,5 @@
 5. create_tables.py: create a table and commmit changes to the PostgreSQL.
 6. insights.py: contains the total number of sales, the sales total, the max sale, the min sale, the avg sales.
 7. insights_export.py: generate monthly insights
+8. execute.py: call main() function 
 
