@@ -1,8 +1,8 @@
 # Building ETL piplines in Python
-
+<br>
 ### 1. ETL exercise: use `SQLite` to perform simple ETL tasks with worldbank database.
 ### 2. ETL_pipelines Folder: This folder contains project for creating pipelines in python to efficiently extract, transform, and load data into the system.
-
+<br>
 1. `extract.py`: create the local directory for saving data, define a function to download a file (zipped) that contains the housing transaction info.
 2. `tables.py`: use engines and sessions to connect database with SQLAlchemy, tables for raw and cleaned data.
 3. `transfrom.py`: clean/transform the data (e.g. lowering letters,  date format conversion, data type changes (string to float to int), update values)
