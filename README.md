@@ -1,7 +1,7 @@
 # Building ETL piplines in Python
 
 I performed two ETL exercises: <br>
-1. <b>ETL exercise</b>: use SQLite to perform simple ETL tasks with worldbank database.
+1. <b>ETL WorldBank</b>: use SQLite to perform simple ETL tasks with worldbank database.
 2. <b> Building ETL_pipelines </b>: created pipelines in python to efficiently extract, transform, and load data into the system. The detailed files below are all located in the folder.
 
 * `extract.py`: create the local directory for saving data, define a function to download a file (zipped) that contains the housing transaction info.
