@@ -1,7 +1,6 @@
 # Building ETL piplines in Python
 
 I performed two ETL exercises: <br>
-<br><br>
 
 <b>1. ETL WorldBank</b>: use SQLite to perform simple ETL tasks with worldbank database. 
 <br>
@@ -12,7 +11,7 @@ I performed two ETL exercises: <br>
     4. Create a function, load_indicator_data(), which loads the trasnformed data into the gdp table in the worldbank.db database.
     5. Run the ETL pipeilne & Run a query against the database to make sure everything worked correctly. 
 
-<br><br><br><br><br><br>
+<br><br>
 
 
 <b> 2. Building ETL_pipelines </b>: created pipelines in python to efficiently extract, transform, and load data into the system. The detailed files below are all located in the folder. 
